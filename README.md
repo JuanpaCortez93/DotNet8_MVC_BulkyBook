@@ -43,6 +43,9 @@ Section 3: Category CRUD Operations
 ⌨️ Partial views
 ⌨️ Toastr Alerts 
 ⌨️ Scaffold CRUD
+
+<br/>
+The project does not contains:
 ⌨️ Create SQL Database on Azure
 ⌨️ Azure Deployment
-⌨️ Congratulations
+
