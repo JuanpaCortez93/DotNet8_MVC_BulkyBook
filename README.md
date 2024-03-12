@@ -1,6 +1,6 @@
 This project contains a basic introduction to .NET Core MVC. 
 
-⭐️ The project convers the following topics⭐️
+⭐️ The project covers the following topics⭐️
 Section 1: Introduction
 ⌨️ Introduction to .Net Core
 ⌨️ Dependency injection
